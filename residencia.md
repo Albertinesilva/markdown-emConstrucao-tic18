@@ -1,0 +1,3 @@
+**João:** 
+
+Além disso, estou motivado a explorar novos algoritmos e técnicas de desenvolvimento que podem melhorar minha capacidade de resolver problemas complexos. Acredito que a residência de software oferece a oportunidade perfeita para imergir na área de programação, trabalhando lado a lado com professores qualificados e profissionais experientes. Essa imersão proporcionará um ambiente de aprendizado prático e prazeroso, onde poderei aplicar meus conhecimentos teóricos em projetos do mundo real.
