@@ -1,3 +1,4 @@
+**Albert:** 
 # Residência: Motivação e Expectativas
 
 ## Minha limitada experiência prática até agora me motiva a participar ativamente desta residência de software. Reconheço que há uma grande diferença entre entender os conceitos teóricos e aplicá-los em situações reais. Acredito que esta residência seja uma oportunidade valiosa para superar essa lacuna e transformar minha base teórica em habilidades tangíveis.
@@ -17,3 +18,7 @@
 ### Estou animado para iniciar esta jornada, apesar das limitações da minha experiência atual. Mal posso esperar para ver como minha trajetória se desdobrará ao longo desta residência de software. Estou pronto para enfrentar os desafios que virão e aproveitar ao máximo as oportunidades de aprendizado
 
 ### 01 de setembro de 2023, Ilheus - BA
+=======
+**João:** 
+
+Estou motivado a explorar novos algoritmos e técnicas de desenvolvimento que podem melhorar minha capacidade de resolver problemas complexos. Acredito que a residência de software oferece a oportunidade perfeita para imergir na área de programação, trabalhando lado a lado com professores qualificados e profissionais experientes. Essa imersão proporcionará um ambiente de aprendizado prático e prazeroso, onde poderei aplicar meus conhecimentos teóricos em projetos do mundo real.
